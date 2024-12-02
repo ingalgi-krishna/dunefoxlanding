@@ -2,10 +2,9 @@ import { FooterBrand } from "./footer-brand";
 import { FooterLinks } from "./footer-links";
 
 const quickLinks = [
-  { label: "Services", href: "/services" },
+  { label: "Products", href: "/products" },
   { label: "Use Cases", href: "/use-cases" },
   { label: "Solutions", href: "/solutions" },
-  { label: "About", href: "/about" },
 ];
 
 const legalLinks = [
@@ -27,8 +26,8 @@ export function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4 text-white">Contact</h4>
             <ul className="space-y-2">
-              <li className="text-[#CCC5B9]">contact@dunefox.com</li>
-              <li className="text-[#CCC5B9]">+1 (555) 123-4567</li>
+              <li className="text-[#CCC5B9]">contact@sucetastech.com</li>
+              <li className="text-[#CCC5B9]">+91 8329687438</li>
             </ul>
           </div>
         </div>
