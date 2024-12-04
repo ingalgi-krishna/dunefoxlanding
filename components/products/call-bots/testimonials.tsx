@@ -8,7 +8,7 @@ const testimonials = [
     content:
       "Our CallBot has significantly streamlined how we manage call traffic, enhancing our customer service efficiency.",
     avatar:
-      "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80",
   },
   {
     name: "Maria Lopez",
@@ -17,7 +17,7 @@ const testimonials = [
     content:
       "Thanks to CallBot, our patients can now handle their appointment needs autonomously, which has drastically improved our operational efficiency.",
     avatar:
-      "https://images.unsplash.com/photo-1543269664-56d93c5c2d96?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1543269664-56d93c5c2d96?auto=format&fit=crop&q=80",
   },
   {
     name: "Linda Wu",

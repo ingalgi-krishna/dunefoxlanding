@@ -9,7 +9,7 @@ const useCases = [
       "30% growth in customer retention rates",
     ],
     image:
-      "https://images.unsplash.com/photo-1533750349088-cd871a92f312?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1533750349088-cd871a92f312?auto=format&fit=crop&q=80",
   },
   {
     industry: "Manufacturing",
@@ -21,7 +21,7 @@ const useCases = [
       "25% improvement in supply chain efficiency",
     ],
     image:
-      "https://images.unsplash.com/photo-1567606404640-c3d24e156985?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1567606404640-c3d24e156985?auto=format&fit=crop&q=80",
   },
   {
     industry: "Healthcare",
@@ -33,7 +33,7 @@ const useCases = [
       "40% increase in treatment efficiency",
     ],
     image:
-      "https://images.unsplash.com/photo-1581579188485-60c2ac92cb75?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1581579188485-60c2ac92cb75?auto=format&fit=crop&q=80",
   },
 ];
 

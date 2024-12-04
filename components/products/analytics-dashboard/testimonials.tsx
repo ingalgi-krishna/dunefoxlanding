@@ -8,7 +8,7 @@ const testimonials = [
     content:
       "The analytics dashboard has revolutionized the way we understand customer behavior and market trends. It's an indispensable tool for our team.",
     avatar:
-      "https://images.unsplash.com/photo-1560298809-cf6a6d5ad4d0?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1560298809-cf6a6d5ad4d0?auto=format&fit=crop&q=80",
   },
   {
     name: "Raj Patel",
@@ -17,7 +17,7 @@ const testimonials = [
     content:
       "Thanks to this dashboard, we've seen a marked improvement in our ability to track performance metrics and make agile business decisions.",
     avatar:
-      "https://images.unsplash.com/photo-1559526640-f58b9e2f1cb3?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1559526640-f58b9e2f1cb3?auto=format&fit=crop&q=80",
   },
   {
     name: "Jessica Liu",
@@ -26,7 +26,7 @@ const testimonials = [
     content:
       "Our marketing team relies heavily on this dashboard for real-time analytics, which has greatly enhanced our campaign strategies.",
     avatar:
-      "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1507537297725-24a1c029d3ca?auto=format&fit=crop&q=80",
   },
 ];
 

@@ -39,6 +39,18 @@ export function StatsSection() {
   return (
     <section ref={ref} className="py-16 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Title Section */}
+        <div className="text-center mb-12">
+          <h2 className="text-3xl font-bold text-[#252422]">
+            Driving Impact with Proven Results
+          </h2>
+          <p className="text-lg text-[#403D39] mt-2">
+            Discover how our solutions deliver measurable success for your
+            business.
+          </p>
+        </div>
+
+        {/* Stats Grid */}
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-8">
           {stats.map((stat, index) => (
             <div

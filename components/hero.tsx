@@ -5,11 +5,11 @@ export function Hero() {
   return (
     <div className="relative min-h-screen flex items-center">
       {/* Background layers */}
-      <div className="absolute inset-0 bg-[#252422] bg-grid-white/[0.9] -z-10" />
-      <div className="absolute inset-0 bg-gradient-to-tr from-[#252422] via-[#252422]/95 to-[#EB6C33]/20 -z-10" />
+      <div className="absolute inset-0 bg-[#1c1b1a] bg-grid-dark -z-10" />
+      <div className="absolute inset-0 bg-gradient-to-tr from-[#1c1b1a] via-[#1c1b1a]/90 to-[#EB6C33]/10 -z-10" />
 
       {/* Animated gradient orb */}
-      <div className="absolute top-1/4 right-1/4 w-96 h-96 bg-[#EB6C33]/30 rounded-full blur-3xl animate-pulse -z-10" />
+      <div className="absolute top-1/4 right-1/4 w-96 h-96 bg-[#EB6C33]/20 rounded-full blur-3xl animate-pulse -z-10" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="text-center space-y-8">
@@ -20,7 +20,7 @@ export function Hero() {
           </div>
 
           {/* Main heading with gradient text */}
-          <h1 className="text-4xl sm:text-6xl font-bold tracking-tight">
+          <h1 className="text-5xl sm:text-6xl font-bold tracking-loose">
             <span className="text-white">Transform Your Business with </span>
             <br></br>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#EB6C33] to-orange-400">
@@ -29,7 +29,7 @@ export function Hero() {
           </h1>
 
           {/* Subheading with feature list */}
-          <p className="text-xl sm:text-lg text-white/80 max-w-5xl mx-auto leading-relaxed">
+          <p className="text-l sm:text-lg text-white/80 max-w-5xl mx-auto leading-relaxed">
             Discover intelligent automation solutions including Web Chatbots,
             WhatsApp Bots, and advanced analytics to streamline your customer
             interactions.

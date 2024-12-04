@@ -38,7 +38,7 @@ export default function FinancialServicesPage() {
             </div>
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80"
+                src="https://imsages.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80"
                 alt="Financial Planning"
                 className="rounded-xl shadow-2xl"
               />
@@ -66,7 +66,7 @@ export default function FinancialServicesPage() {
             ].map((item) => (
               <div
                 key={item.desc}
-                className="text-center p-6 bg-[#FFFCF2] rounded-xl"
+                className="text-center p-6 bg-[#FFFFFF] rounded-xl"
               >
                 <div className="text-3xl font-bold text-[#EB6C33] mb-2">
                   {item.stat}
@@ -79,7 +79,7 @@ export default function FinancialServicesPage() {
       </section>
 
       {/* Key Benefits */}
-      <section className="py-16 bg-[#FFFCF2]">
+      <section className="py-16 bg-[#FFFFFF]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-bold text-[#252422] mb-8">
             Financial-Grade Features

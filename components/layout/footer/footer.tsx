@@ -12,11 +12,10 @@ const legalLinks = [
   { label: "Terms of Service", href: "/terms" },
   { label: "Cookie Policy", href: "/cookies" },
 ];
-
 export function Footer() {
   return (
     <footer className="bg-[#252422]">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <FooterBrand />
 
@@ -32,10 +31,10 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 pt-8 border-t border-[#403D39] text-center">
-          <p className="text-[#CCC5B9] mb-2">A Sucetas Company</p>
+        <div className="text-xs mt-8 pt-8 border-t border-[#403D39] text-center">
           <p className="text-[#CCC5B9]">
-            &copy; {new Date().getFullYear()} Dunefox. All rights reserved.
+            &copy; {new Date().getFullYear()} Sucetas Technologies. All rights
+            reserved.
           </p>
         </div>
       </div>

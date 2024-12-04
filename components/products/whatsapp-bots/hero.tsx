@@ -37,7 +37,7 @@ export function WhatsappBotHero() {
           <div className="relative">
             <div className="aspect-square rounded-2xl bg-gradient-to-tr from-[#EB6C33] to-[#EB6C33]/20 p-8">
               <img
-                src="https://images.unsplash.com/photo-1562577309-2592ab84b1bc?auto=format&fit=crop&q=80"
+                src="https://imsages.unsplash.com/photo-1562577309-2592ab84b1bc?auto=format&fit=crop&q=80"
                 alt="WhatsApp Bot Interface"
                 className="rounded-xl shadow-2xl"
               />

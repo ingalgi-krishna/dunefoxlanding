@@ -39,7 +39,7 @@ export default function ProfessionalServicesPage() {
             </div>
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1573166364524-6625c8b3e6b4?auto=format&fit=crop&q=80"
+                src="https://imsages.unsplash.com/photo-1573166364524-6625c8b3e6b4?auto=format&fit=crop&q=80"
                 alt="Professional Office"
                 className="rounded-xl shadow-2xl"
               />
@@ -67,7 +67,7 @@ export default function ProfessionalServicesPage() {
             ].map((item) => (
               <div
                 key={item.desc}
-                className="text-center p-6 bg-[#FFFCF2] rounded-xl"
+                className="text-center p-6 bg-[#FFFFFF] rounded-xl"
               >
                 <div className="text-3xl font-bold text-[#EB6C33] mb-2">
                   {item.stat}
@@ -80,7 +80,7 @@ export default function ProfessionalServicesPage() {
       </section>
 
       {/* Key Benefits */}
-      <section className="py-16 bg-[#FFFCF2]">
+      <section className="py-16 bg-[#FFFFFF]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-bold text-[#252422] mb-8">
             Key Features for Professional Services

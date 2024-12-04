@@ -9,7 +9,7 @@ const useCases = [
       "40% decrease in customer wait times",
     ],
     image:
-      "https://images.unsplash.com/photo-1580582932707-520aed937b7f?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1580582932707-520aed937b7f?auto=format&fit=crop&q=80",
   },
   {
     industry: "Healthcare",
@@ -18,7 +18,7 @@ const useCases = [
       "Automate appointment booking, reminders, and rescheduling, ensuring patients never miss their healthcare needs.",
     metrics: ["30% increase in appointment efficiency", "20% fewer no-shows"],
     image:
-      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80",
   },
   {
     industry: "Finance",
@@ -30,7 +30,7 @@ const useCases = [
       "25% improvement in customer satisfaction",
     ],
     image:
-      "https://images.unsplash.com/photo-1591957865901-b05ad05ce5f1?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1591957865901-b05ad05ce5f1?auto=format&fit=crop&q=80",
   },
 ];
 

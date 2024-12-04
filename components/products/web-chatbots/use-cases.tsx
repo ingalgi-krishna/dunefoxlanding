@@ -4,21 +4,21 @@ const useCases = [
     title: 'Boost Sales with 24/7 Shopping Assistance',
     description: 'Help customers find products, answer questions, and complete purchases around the clock.',
     metrics: ['35% increase in conversion rate', '42% reduction in cart abandonment'],
-    image: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80',
+    image: 'https://imsages.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80',
   },
   {
     industry: 'Healthcare',
     title: 'Streamline Patient Support',
     description: 'Provide instant answers to common health queries and appointment scheduling assistance.',
     metrics: ['60% faster response times', '45% reduction in support tickets'],
-    image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80',
+    image: 'https://imsages.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80',
   },
   {
     industry: 'Education',
     title: 'Enhance Student Experience',
     description: 'Guide students through enrollment, answer course queries, and provide resource access.',
     metrics: ['50% reduction in admin workload', '89% student satisfaction rate'],
-    image: 'https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80',
+    image: 'https://imsages.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&q=80',
   },
 ];
 

@@ -9,7 +9,7 @@ const useCases = [
       "30% uplift in repeat purchases",
     ],
     image:
-      "https://images.unsplash.com/photo-1523475496153-3d8e1a7e9a1e?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1523475496153-3d8e1a7e9a1e?auto=format&fit=crop&q=80",
   },
   {
     industry: "Finance",
@@ -21,7 +21,7 @@ const useCases = [
       "55% reduction in call center costs",
     ],
     image:
-      "https://images.unsplash.com/photo-1591027489404-0552206b6f9b?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1591027489404-0552206b6f9b?auto=format&fit=crop&q=80",
   },
   {
     industry: "Hospitality",
@@ -33,7 +33,7 @@ const useCases = [
       "65% improvement in guest satisfaction",
     ],
     image:
-      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&q=80",
+      "https://imsages.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&q=80",
   },
 ];
 
