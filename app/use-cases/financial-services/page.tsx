@@ -10,7 +10,14 @@ export default function FinancialServicesPage() {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-[#252422] py-20">
+      <section
+        className="relative overflow-hidden bg-[#252422] py-20"
+        style={{
+          backgroundImage: `linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80')`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
         <div className="absolute inset-0 bg-grid-white/[0.1] -z-10" />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -35,13 +42,6 @@ export default function FinancialServicesPage() {
                 Learn More
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
-            </div>
-            <div className="relative">
-              <img
-                src="https://imsages.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&q=80"
-                alt="Financial Planning"
-                className="rounded-xl shadow-2xl"
-              />
             </div>
           </div>
         </div>
